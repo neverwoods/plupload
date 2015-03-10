@@ -1,0 +1,25 @@
+{
+  "name": "plupload",
+  "version": "2.1.2",
+  "homepage": "https://github.com/neverwoods/plupload",
+  "authors": [
+    "rvanbaalen <robin@neverwoods.com>"
+  ],
+  "description": "Neverwoods plupload fork",
+  "main": "js/plupload.dev.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "plupload",
+    "upload"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
