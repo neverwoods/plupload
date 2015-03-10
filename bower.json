@@ -1,12 +1,12 @@
 {
   "name": "plupload",
-  "version": "2.1.2",
+  "version": "2.1.4",
   "homepage": "https://github.com/neverwoods/plupload",
   "authors": [
     "rvanbaalen <robin@neverwoods.com>"
   ],
   "description": "Neverwoods plupload fork",
-  "main": "js/plupload.dev.js",
+  "main": ["js/plupload.dev.js", "js/moxie.js"],
   "moduleType": [
     "globals"
   ],
