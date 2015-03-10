@@ -6,7 +6,7 @@
     "rvanbaalen <robin@neverwoods.com>"
   ],
   "description": "Neverwoods plupload fork",
-  "main": ["js/plupload.dev.js", "js/moxie.js"],
+  "main": ["js/plupload.full.min.js"],
   "moduleType": [
     "globals"
   ],
